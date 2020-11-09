@@ -1,0 +1,18 @@
+.font_p1{
+	font-size:20px;
+}
+.font_size{font-size: 0.8rem;}
+.my_btn1{
+	width: 140;height:35;
+	background-color: #333333;
+	color: #ECECF6;
+	border-radius: 20px;
+	border:0;outline:0;
+}
+.my_btn1:hover{
+	background-color: #757575;
+	color:#ECECF6;
+}
+.breadcrumb-item+.breadcrumb-item::before{
+	content: "|";
+}

@@ -1,0 +1,10 @@
+.font_size{font-size:0.8rem;}
+.breadcrumb-item+.breadcrumb-item::before{
+	content: "|";
+}
+.my_heigth{
+	height:20px;
+}
+.my_img{
+	height: 36px;
+}
